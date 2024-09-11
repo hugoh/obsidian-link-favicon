@@ -1,5 +1,3 @@
-
-
 .link-favicon {
 	vertical-align: bottom;
 	margin-bottom: 0.3em;
@@ -26,4 +24,8 @@
 .link-favicon-scrollable-content {
 	overflow: auto;
 	height: 60vh;
+}
+
+.markdown-source-view .cm-active.cm-line img.link-favicon {
+	display: none !important;
 }
